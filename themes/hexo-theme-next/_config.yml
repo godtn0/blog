@@ -582,9 +582,10 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: Andu-Blog
   count: true
+  lazyload: false
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
