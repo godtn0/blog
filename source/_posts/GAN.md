@@ -20,4 +20,11 @@ Universality of Uniform
 
 {% asset_img Universality_of_Uniform.png [hello?] %}
 
-> **Theorem** (Universality of the Uniform). Let *F* : \mathbb{R}
+> **Theorem** (Universality of the Uniform)
+
+
+이 정리가 말하는 것은 다음과 같다.
+
+> *F* 가 valid CDF이며 그 역함수가 존재할 경우,
+> Uniform Random Variable *U* ~ Unif(0, 1)에 대해서 
+> $ X = F^{-1}(U),$ then X is rand  X는 CDF F를 갖는 확률변수이다.
