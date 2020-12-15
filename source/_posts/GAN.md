@@ -74,7 +74,7 @@ $$\begin{equation}z = F(x)\end{equation}$$
 $$\begin{equation}dz = F^{'}(x)dx = p_{g}(x)dx\end{equation}$$
 
 식 (5)를 이용하여 식 (2)에서의 오른쪽 적분식에 $z$를 $x$로 치환하면, 우리가 원하는 식 (6)을 다음과 같이 얻어낼 수 있다.
-$$\begin{equation} V(G,D) = \displaystyle\int_{x}p_{data}(x)log(D(x)) + p_{g}(x)log(1-D(x)dx \end{equation}$$
+$$\begin{equation} V(G,D) = \displaystyle\int_{x}p_{data}(x)log(D(x)) + p_{g}(x)log(1-D(x))dx \end{equation}$$
 
 이제 각각 $D$ 와 $G$ 에 대해서 식 (6)을 순차적으로 $maximize$, $minimize$ 했을 때 $G$ 에 대한 $x$ 의 분포가 $p_{g}(x) = p_{data}(x)$를 만족함을 보이자. 
 
