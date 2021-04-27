@@ -11,4 +11,11 @@ My research interests includes GAN, Neural-ODE and visual representation learnin
 
 CV
 ==
-{% link link on CV http://godtn0.github.io/files/SuyeongAn_CV_2021.pdf  %}
+{% link link on CV http://godtn0.github.io/files/Suyeong_CV_2021_04_27.pdf  %}
+
+****
+Projects
+==
+**Question Answering Network for Physical Reasoning**  {% link [paper] http://godtn0.github.io/files/Question_Answering_Network_for_Physical_Reasoning.pdf  %}
+
+Combined DQN with question & answering module to make agent understand physical concepts.
